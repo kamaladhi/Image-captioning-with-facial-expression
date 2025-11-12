@@ -94,5 +94,4 @@ You are free to use, modify, and distribute this code, but please give appropria
 
 ---
 
-## 📬 Contact  
-For questions or collaborative ideas, feel free to open an issue or contact any of the contributors.
+
